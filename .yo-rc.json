@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "spfx-114-beta",
+    "libraryId": "d7a4e2d2-7afe-410c-ad31-79b2822483d0",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-114-beta",
+    "solutionShortDescription": "spfx-114-beta description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "adaptiveCardExtension",
+    "aceTemplateType": "Image"
+  }
+}
